@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T3H\\code\\Buoi_7\\BAi__2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|d:\\t3h\\code\\buoi_7\\bai__2\\bai__2\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|solutionrelative:bai__2\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|d:\\t3h\\code\\buoi_7\\bai__2\\bai__2\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|solutionrelative:bai__2\\intern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|d:\\t3h\\code\\buoi_7\\bai__2\\bai__2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|solutionrelative:bai__2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|d:\\t3h\\code\\buoi_7\\bai__2\\bai__2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|solutionrelative:bai__2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|d:\\t3h\\code\\buoi_7\\bai__2\\bai__2\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|solutionrelative:bai__2\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|d:\\t3h\\code\\buoi_7\\bai__2\\bai__2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43D1BC3-43FF-480E-A1E9-E690874C282C}|BAi__2\\BAi__2.csproj|solutionrelative:bai__2\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Function.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Function.cs",
+              "RelativeDocumentMoniker": "BAi__2\\Function.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Function.cs",
+              "RelativeToolTip": "BAi__2\\Function.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAEwDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:46:40.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Intern.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Intern.cs",
+              "RelativeDocumentMoniker": "BAi__2\\Intern.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Intern.cs",
+              "RelativeToolTip": "BAi__2\\Intern.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAmwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:45:47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartTimeEmployee.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\PartTimeEmployee.cs",
+              "RelativeDocumentMoniker": "BAi__2\\PartTimeEmployee.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\PartTimeEmployee.cs",
+              "RelativeToolTip": "BAi__2\\PartTimeEmployee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:43:49.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "BAi__2\\FullTimeEmployee.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\FullTimeEmployee.cs",
+              "RelativeToolTip": "BAi__2\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:41:31.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Employee.cs",
+              "RelativeDocumentMoniker": "BAi__2\\Employee.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Employee.cs",
+              "RelativeToolTip": "BAi__2\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:40:39.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Program.cs",
+              "RelativeDocumentMoniker": "BAi__2\\Program.cs",
+              "ToolTip": "D:\\T3H\\code\\Buoi_7\\BAi__2\\BAi__2\\Program.cs",
+              "RelativeToolTip": "BAi__2\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwBYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:40:06.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
